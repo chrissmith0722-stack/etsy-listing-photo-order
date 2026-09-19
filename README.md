@@ -1,12 +1,14 @@
 # etsy-listing-photo-order
 
-Suggested image order for digital download listings.
+Checklist for **which image goes in which slot** on Etsy digital-download listings so browsers convert.
 
-1. Square thumbnail — product name readable at small size
-2. Hero mockup — dashboard / first page in context
-3. What’s included — file list or icons
-4. Before/after or benefit callouts
-5. Close-up of a key tab/section
-6. Disclaimer / compatibility slide if needed
+## Files
 
-Keep text huge; mobile shoppers decide in a second.
+| File | Purpose |
+|------|---------|
+| `PHOTO-ORDER-CHECKLIST.md` | Slot-by-slot order + mobile tips |
+| `LICENSE` | MIT |
+
+## License
+
+MIT
